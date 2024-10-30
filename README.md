@@ -37,7 +37,7 @@ Conducted simple data wrangling and data cleaning:
 
 ## 📊 Visualization
 
-![Unicorns](https://github.com/wwalterzhou/Unicorn-Companies-Analysis/blob/main/Unicorn%20Companies%20Analysis.png)
+![Unicorns](https://github.com/wwalterzhou/Unicorn_Companies_Analysis/blob/main/Unicorn%20Companies%20Analysis%20Visualization.png)
 
 
 
